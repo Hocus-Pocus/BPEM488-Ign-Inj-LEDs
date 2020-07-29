@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\angel\\Documents\\KiCad Projects\\Ign-Inj LEDs\\Ign-Inj LEDs.sch")
-    (date "2020-07-18 2:32:22 PM")
+    (date "2020-07-24 2:40:51 PM")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

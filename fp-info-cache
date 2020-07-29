@@ -1,4 +1,4 @@
-19373814377795341
+19378596920139479
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51589,6 +51589,27 @@ heatsink
 0
 2
 1
+Ign-Inj LEDs
+EBWA-02-B
+
+
+0
+2
+2
+Ign-Inj LEDs
+EBWA-03-B
+
+
+0
+3
+3
+Ign-Inj LEDs
+EBWA-05-B
+
+
+0
+5
+5
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
